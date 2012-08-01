@@ -1,7 +1,6 @@
 {
   "name": "grunt-volo",
-  "description": "Use volo inside grunt for fetching code dependencies from
-GitHub",
+  "description": "Use volo inside grunt for fetching code dependencies from GitHub",
   "version": "0.0.1",
   "homepage": "https://github.com/volojs/grunt-volo",
   "author": {
