@@ -7,7 +7,7 @@ GitHub.
 ## Getting Started
 
 Install this grunt plugin next to your project's
-[grunt.js gruntfile][https://github.com/cowboy/grunt/blob/master/docs/getting_started.md] with:
+[grunt.js gruntfile](https://github.com/cowboy/grunt/blob/master/docs/getting_started.md) with:
 
     npm install grunt-volo
 
