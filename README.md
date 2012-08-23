@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/volojs/grunt-volo.png)](http://travis-ci.org/volojs/grunt-volo)
 # grunt-volo
 
 Use [volo](https://github.com/volojs) inside
