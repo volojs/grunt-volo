@@ -7,8 +7,6 @@
 /*jslint node: true */
 'use strict';
 
-console.log('LOADING VOLO');
-
 module.exports = function (grunt) {
     grunt.registerTask('volo', 'Use volo to fetch code from GitHub', function () {
         var volo = require('volo'),
